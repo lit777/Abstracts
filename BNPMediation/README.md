@@ -1,0 +1,6 @@
+## A Framework for Bayesian Nonparametric Inference for Causal effects of Mediation
+
+We propose a Bayesian non-parametric (BNP) framework for estimating causal effects of mediation, the natural direct and indirect effects. The strategy is to do this in two parts. Part 1 is a flexible model (using BNP) for the observed data distribution. Part 2 is a set of uncheckable assumptions with sensitivity parameters that in conjunction with Part 1 allows identification and estimation of the causal parameters and allows for uncertainty about these assumptions via priors on the sensitivity parameters. For Part 1, we specify a Dirichlet process mixture of multivariate normals as a prior on the joint distribution of the outcome, mediator and covariates. This approach allows us to obtain a (simple) closed form of each marginal distribution. For Part 2, we consider two sets of assumptions: (a) the standard sequential ignorability (Imai et al., 2010) and (b) weakened set of the conditional independence type assumptions introduced in Daniels et al. (2012) and propose sensitivity analyses for both. We use this approach to assess mediation in a physical activity promotion trial.
+
+### Keywords
+Causal inference; Dirichlet process mixture; Sensitivity Analysis
