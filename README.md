@@ -24,5 +24,7 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 * K.Cummiskey, **C.Kim**, C.Choirat, L.Henneman, J.Schwartz, C.Zigler - *under revision* - [A Source-Oriented Approach to Coal Power Plant Emissions Health ](https://github.com/lit777/Abstracts/tree/master/Source-Oriented/)
 
 # Collaborative Works
-Perri's
-ATI
+* M.Perri et al. - *obesity (2013)* - [Comparative effectiveness of three doses of weight-loss counseling: Two-year findings from the rural LITE trial](http://onlinelibrary.wiley.com.ezproxy.bu.edu/doi/10.1002/oby.20832/full)
+
+* Z.Zhang, C.Zheng, **C.Kim**, S.V.Poucke, S.Lin, P.Lan - *Annals of Translational Medicine (2016)* - [Causal mediation analysis in the context of clinical research](https://www-ncbi-nlm-nih-gov.ezproxy.bu.edu/pmc/articles/PMC5124624/)
+
