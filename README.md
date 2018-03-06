@@ -21,10 +21,8 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 * Y.Liu, **C.Kim**, A.D.Wu, P.Gustafson, E.Kroc, B.D.Zumbo - *Journal of Modern Applied Statistical Methods (accepted)* - [Investigating the Performance of Propensity Score Approaches for Differential Item Functioning Analysis](https://github.com/lit777/Abstracts/tree/master/DIF_PS/)
 
+* K.Cummiskey, **C.Kim**, C.Choirat, L.Henneman, J.Schwartz, C.Zigler - *under revision* - [A Source-Oriented Approach to Coal Power Plant Emissions Health ](https://github.com/lit777/Abstracts/tree/master/Source-Oriented/)
 
-BNP Mediantion
-Bayesian Mediation
-
-Kevin's
-Yan's
+# Collaborative Works
 Perri's
+ATI
