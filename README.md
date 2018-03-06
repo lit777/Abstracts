@@ -11,9 +11,9 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 * **C.Kim**, C.Choirat, C.M.Zigler - *a draft is available* - [Health Effects of Power Plant Emissions Mediated through Ambient PM2.5](https://github.com/lit777/Abstracts/tree/master/PM-HealthMediator/)
 
-* **C.Kim**, M.J.Daniels, Y.Li, K.Milbury, L.Cohen - *Statistics in Medicine (2018)* - [A Bayesian Semiparametric Latent Variable Approach to Causal Mediation](https://github.com/lit777/Abstracts/tree/master/LatentMediation/)
+* **C.Kim**, M.J.Daniels, Y.Li, K.Milbury, L.Cohen - *Statistics in Medicine (2017)* - [A Bayesian Semiparametric Latent Variable Approach to Causal Mediation](https://github.com/lit777/Abstracts/tree/master/LatentMediation/)
 
-* **C.Kim**, M.J.Daniels, B.Marcus, J.Roy - *Biometrics (2017)* - [A Framework for Bayesian Nonparametric Inference for Causal effects of Mediation](https://github.com/lit777/Abstracts/tree/master/BNPMediation/)
+* **C.Kim**, M.J.Daniels, B.Marcus, J.Roy - *Biometrics (2016)* - [A Framework for Bayesian Nonparametric Inference for Causal effects of Mediation](https://github.com/lit777/Abstracts/tree/master/BNPMediation/)
 
 * M.J.Daniels, J.A.Roy, **C.Kim**, J.W.Hogan, M.G.Perri - *Biometrics (2012)* - [Bayesian Inference for the Causal Effect of Mediation](https://github.com/lit777/Abstracts/tree/master/BayesianMediation/)
 
