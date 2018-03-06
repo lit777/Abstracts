@@ -1,0 +1,3 @@
+## Bayesian Inference for the Causal Effect of Mediation
+
+We propose a nonparametric Bayesian approach to estimate the natural direct and indirect effects through a mediator in the setting of a continuous mediator and a binary response. Several conditional independence assumptions are introduced (with corresponding sensitivity parameters) to make these effects identifiable from the observed data. We suggest strategies for eliciting sensitivity parameters and conduct simulations to assess violations to the assumptions. This approach is used to assess mediation in a recent weight management clinical trial.
