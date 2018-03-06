@@ -13,6 +13,8 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 * **C.Kim**, M.J.Daniels, Y.Li, K.Milbury, L.Cohen - *Statistics in Medicine (2018)* - [A Bayesian Semiparametric Latent Variable Approach to Causal Mediation](https://github.com/lit777/Abstracts/tree/master/LatentMediation/)
 
+* **C.Kim**, M.J.Daniels, B.Marcus, J.Roy - *Biometrics (2017)* - [A Framework for Bayesian Nonparametric Inference for Causal effects of Mediation](https://github.com/lit777/Abstracts/tree/master/BNPMediation/)
+
 
 BNP Mediantion
 Bayesian Mediation
