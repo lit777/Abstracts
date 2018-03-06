@@ -1,8 +1,8 @@
 # Statisitcal Methods
 
 * **C.Kim** - *under revision* - [Deviance Information Criteria for Mixtures of
-Distributions](https://github.com/lit777/Abstracts/DIC)
-DIC
+Distributions](https://github.com/lit777/Abstracts/DIC/README.md)
+
 Multiple (Pollution)
 Multiple (STRIDE)
 Longitudinal
