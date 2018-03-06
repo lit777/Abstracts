@@ -19,6 +19,8 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 * C.M.Zigler, **C.Kim**, C.Christine, J.B.Hansen, Y.Wang, G.King, L.Hund, F.Dominici - *HEI Report (2016)* - [Causal Inference Methods for Estimating Long Term Health Effects of Air Quality Regulations](https://github.com/lit777/Abstracts/tree/master/HEIreport/)
 
+* Y.Liu, **C.Kim**, A.D.Wu, P.Gustafson, E.Kroc, B.D.Zumbo - *Journal of Modern Applied Statistical Methods (accepted)* - [Investigating the Performance of Propensity Score Approaches for Differential Item Functioning Analysis](https://github.com/lit777/Abstracts/tree/master/DIF_PS/)
+
 
 BNP Mediantion
 Bayesian Mediation
