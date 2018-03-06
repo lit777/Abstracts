@@ -15,6 +15,8 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 * **C.Kim**, M.J.Daniels, B.Marcus, J.Roy - *Biometrics (2017)* - [A Framework for Bayesian Nonparametric Inference for Causal effects of Mediation](https://github.com/lit777/Abstracts/tree/master/BNPMediation/)
 
+* C.M.Zigler, **C.Kim**, C.Christine, J.B.Hansen, Y.Wang, G.King, L.Hund, F.Dominici - *HEI Report (2016)* - [Causal Inference Methods for Estimating Long Term Health Effects of Air Quality Regulations](https://github.com/lit777/Abstracts/tree/master/HEIreport/)
+
 
 BNP Mediantion
 Bayesian Mediation
