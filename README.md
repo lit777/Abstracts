@@ -1,7 +1,7 @@
 # Statisitcal Methods
 
 * **C.Kim** - *under revision* - [Deviance Information Criteria for Mixtures of
-Distributions](https://github.com/lit777/Abstracts/DIC/)
+Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 Multiple (Pollution)
 Multiple (STRIDE)
