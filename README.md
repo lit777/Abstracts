@@ -5,8 +5,8 @@ Distributions](https://github.com/lit777/Abstracts/tree/master/DIC/)
 
 * **C.Kim**, M.J.Daniels, J.W.Hogan, C.Choirat, C.M.Zigler - *under second review* - [Bayesian Methods for Multiple Mediators: Relating Principal and Causal Mediation in the Analysis of Power Plant Emission Controls](https://github.com/lit777/Abstracts/tree/master/MultipleBNP/)
 
-Multiple (Pollution)
-Multiple (STRIDE)
+* **C.Kim**, M.J.Daniels, J.W.Hogan - *a draft is available* - [A Framework for Causal Inference for Multiple Mediators](https://github.com/lit777/Abstracts/tree/master/MultipleBART/)
+
 Longitudinal
 Health Outcome
 BNP Mediantion
