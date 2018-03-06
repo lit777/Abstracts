@@ -1,7 +1,7 @@
 # Statisitcal Methods
 
-* **C.Kim** - *Initial work* - [Deviance Information Criteria for Mixtures of
-Distributions](https://github.com/PurpleBooth)
+* **C.Kim** - *under revision* - [Deviance Information Criteria for Mixtures of
+Distributions](https://github.com/lit777/Abstracts/DIC)
 DIC
 Multiple (Pollution)
 Multiple (STRIDE)
