@@ -19,7 +19,7 @@ Distributions](https://github.com/lit777/Publication/tree/master/DIC/)
 
 * C.M.Zigler, **C.Kim**, C.Christine, J.B.Hansen, Y.Wang, G.King, L.Hund, F.Dominici - *HEI Report (2016)* - [Causal Inference Methods for Estimating Long Term Health Effects of Air Quality Regulations](https://github.com/lit777/Publication/tree/master/HEIreport/)
 
-* Y.Liu, **C.Kim**, A.D.Wu, P.Gustafson, E.Kroc, B.D.Zumbo - *Journal of Modern Applied Statistical Methods (accepted)* - [Investigating the Performance of Propensity Score Approaches for Differential Item Functioning Analysis](https://github.com/lit777/Publication/tree/master/DIF_PS/)
+* Y.Liu, **C.Kim**, A.D.Wu, P.Gustafson, E.Kroc, B.D.Zumbo - *Journal of Modern Applied Statistical Methods (in press)* - [Investigating the Performance of Propensity Score Approaches for Differential Item Functioning Analysis](https://github.com/lit777/Publication/tree/master/DIF_PS/)
 
 * K.Cummiskey, **C.Kim**, C.Choirat, L.Henneman, J.Schwartz, C.Zigler - *under revision* - [A Source-Oriented Approach to Coal Power Plant Emissions Health ](https://github.com/lit777/Publication/tree/master/Source-Oriented/)
 
