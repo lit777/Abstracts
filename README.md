@@ -28,3 +28,4 @@ Distributions](https://github.com/lit777/Publication/tree/master/DIC/)
 
 * Z.Zhang, C.Zheng, **C.Kim**, S.V.Poucke, S.Lin, P.Lan - *Annals of Translational Medicine (2016)* - [Causal mediation analysis in the context of clinical research](https://www-ncbi-nlm-nih-gov.ezproxy.bu.edu/pmc/articles/PMC5124624/)
 
+* S.Mahalingaiah, K.J.Lane, **C.Kim**, J.Cheng, J.Hart, *Current Epidemiology Reports (In press)*, [Impacts of Air Pollution on Gynecologic Disease: Infertility, Menstrual Irregularity, Uterine Fibroids, and Endometriosis: a Systematic Review and Commentary] (https://doi.org/10.1007/s40471-018-0157-9)
