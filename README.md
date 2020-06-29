@@ -39,4 +39,4 @@ Distributions](https://github.com/lit777/Publication/tree/master/DIC/)
 
 * M.Nguyen, T.Feeney, **C.Kim**, F.Drake, S.Mitchell, M.Bednarczyk, S.Sanchez, *American Journal of Hospice and Palliative Medicine (2020)*, [Differential Utilization of Palliative Care Consultation between Medical and Surgical Services]
 
-K.Peer,  W.G.Adams, A.Legler, M.Sandel, J.Levy, R.Boynton-Jarrett, **C.Kim**, J.H.Leibler, M.P.Fabian, -*submitted*- [Developing and evaluating a pediatric asthma severity computable phenotype derived from electronic health records]
+* K.Peer,  W.G.Adams, A.Legler, M.Sandel, J.Levy, R.Boynton-Jarrett, **C.Kim**, J.H.Leibler, M.P.Fabian, -*submitted*- [Developing and evaluating a pediatric asthma severity computable phenotype derived from electronic health records]
