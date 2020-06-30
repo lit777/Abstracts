@@ -2,14 +2,14 @@
 
 * **C.Kim**, -*Submitted*- [Bayesian Additive Regression Trees in Spatial Data Analysis with Sparse Observations]
 
-* **C.Kim**, X.Lin, K.Nelson, -*Submitted*-, [Measuring Rater Bias in Diagnostic Tests with Ordinal Ratings]
+* **C.Kim**, X.Lin, K.Nelson, -*Submitted*- [Measuring Rater Bias in Diagnostic Tests with Ordinal Ratings]
 
 * **C.Kim**, C.Choirat, C.M.Zigler - *JRSS-A (2020)* - [Health Effects of Power Plant Emissions Mediated through Ambient PM2.5](https://github.com/lit777/Publication/tree/master/PM-HealthMediator/)
 
 * **C.Kim** - *Communications in Statistics - Simulation and Computation (2019)* - [Deviance Information Criteria for Mixtures of
 Distributions](https://github.com/lit777/Publication/tree/master/DIC/)
 
-* **C.Kim**, M.J.Daniels, J.W.Hogan, C.Choirat, C.M.Zigler - *Annals of Applied Statistics (2019)* - [Bayesian Methods for Multiple Mediators: Relating Principal and Causal Mediation in the Analysis of Power Plant Emission Controls](https://github.com/lit777/Publication/tree/master/MultipleBNP/)
+* **C.Kim**, M.J.Daniels, J.W.Hogan, C.Choirat, C.M.Zigler - *Annals of Applied Statistics (2019)* - [Bayesian Methods for Multiple Mediators: Relating Principal and Causal Mediation in the Analysis of Power Plant Emission Controls](https://github.com/lit777/Publication/tree/master/MultipleBNP/), awarded the ASA Biometric Section Paper Award (2017), an honorable mention (2nd Place) for the ISBA Mitchell Prize of 2019 (2020)
 
 * **C.Kim**, C.M.Zigler, M.J.Daniels, J.A.Roy - *under revision* - [Bayesian Longitudinal Causal Inference in the Analysis of the Public Health Impact of Pollutant Emissions](https://github.com/lit777/Publication/tree/master/Longitudinal/)
 
