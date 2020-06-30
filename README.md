@@ -9,7 +9,7 @@
 * **C.Kim** - *Communications in Statistics - Simulation and Computation (2019)* - [Deviance Information Criteria for Mixtures of
 Distributions](https://github.com/lit777/Publication/tree/master/DIC/)
 
-* **C.Kim**, M.J.Daniels, J.W.Hogan, C.Choirat, C.M.Zigler - *Annals of Applied Statistics (2019)* - [Bayesian Methods for Multiple Mediators: Relating Principal and Causal Mediation in the Analysis of Power Plant Emission Controls](https://github.com/lit777/Publication/tree/master/MultipleBNP/), awarded the ASA Biometric Section Paper Award (2017), an honorable mention (2nd Place) for the ISBA Mitchell Prize of 2019 (2020)
+* **C.Kim**, M.J.Daniels, J.W.Hogan, C.Choirat, C.M.Zigler - *Annals of Applied Statistics (2019)* - [Bayesian Methods for Multiple Mediators: Relating Principal and Causal Mediation in the Analysis of Power Plant Emission Controls](https://github.com/lit777/Publication/tree/master/MultipleBNP/), awarded the ASA Biometric Section Paper Award (2017), an honorable mention (2nd Place) for the ISBA Mitchell Prize of 2019
 
 * **C.Kim**, C.M.Zigler, M.J.Daniels, J.A.Roy - *under revision* - [Bayesian Longitudinal Causal Inference in the Analysis of the Public Health Impact of Pollutant Emissions](https://github.com/lit777/Publication/tree/master/Longitudinal/)
 
